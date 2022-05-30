@@ -1,0 +1,81 @@
+%YAML 1.1
+---
+icons: {
+    }
+sets:
+    rails:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: rails
+        markers: {
+            }
+        lines:
+            testline1:
+                world: world
+                markup: false
+                x:
+                - -100.0
+                - -5.0
+                - -5.0
+                - -15.0
+                - -15.0
+                - -8.0
+                - 3.0
+                - 3.0
+                - -6.0
+                - -6.0
+                - -6.0
+                - -15.0
+                - -15.0
+                strokeWeight: 3
+                y:
+                - 92.0
+                - 92.0
+                - 92.0
+                - 92.0
+                - 92.0
+                - 92.0
+                - 92.0
+                - 92.0
+                - 92.0
+                - 92.0
+                - 92.0
+                - 92.0
+                - 92.0
+                z:
+                - -100.0
+                - 352.0
+                - 375.0
+                - 384.0
+                - 393.0
+                - 402.0
+                - 404.0
+                - 414.0
+                - 414.0
+                - 424.0
+                - 432.0
+                - 432.0
+                - 445.0
+                label: Test line 1
+                strokeColor: 393412
+                strokeOpacity: 0.8
+        layerprio: 0
+    markers:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Markers
+        markers: {
+            }
+        lines: {
+            }
+        layerprio: 0
+playersets: {
+    }
